@@ -51,5 +51,5 @@
         "postcss": "^8.4.13",
         "tailwindcss": "^3.0.24"
     },
-    "proxy": "http://localhost:8000"
+    "proxy": "http://ec2-3-80-97-222.compute-1.amazonaws.com:8000"
 }
